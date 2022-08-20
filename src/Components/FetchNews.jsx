@@ -1,7 +1,11 @@
 import React from 'react'
-
+import axios from 'axios'
 export default function FetchNews() {
   return (
-    <div>FetchNews</div>
+    <>
+    <button>
+      FetchNews
+    </button>
+    </>
   )
 }
