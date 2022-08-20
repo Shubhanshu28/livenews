@@ -3,7 +3,7 @@ import axios from 'axios'
 export default function FetchNews() {
   return (
     <>
-    <button>
+    <button className='btn btn-primary'>
       FetchNews
     </button>
     </>
